@@ -1,5 +1,6 @@
 # Học về chuỗi
 # dùng dấu "" , '' để đóng và mở chuỗi
+# dùng triple quotes ("""string""" hoặc '''string''') để lưu chuỗi nhiều dòng
 hello = '''
 Hello world
 This is Python
